@@ -15,8 +15,8 @@ In this project, we will:
    - **Linear Regression**
    - **Random Forest Regressor**
 4. Evaluate both models using:
-   - **R² Score** — how well the model fits the data  
-   - **RMSE (Root Mean Squared Error)** — average prediction error  
+   - **R² Score** - how well the model fits the data  
+   - **RMSE (Root Mean Squared Error)** - average prediction error  
 5. Visualize and compare model performance
 
 ---
